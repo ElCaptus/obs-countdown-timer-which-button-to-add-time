@@ -7,7 +7,7 @@ Soon upgrade to custom time add.
 2. Place it in your obs scripts file. (default intallation route: C:\Program Files\obs-studio\data\obs-plugins\frontend-tools\scripts)
 3. Open OBS and create a new scene with a new text source.
 4. Once the new text source is saved, go up to "Tools" (above on the general obs bar) and choose "Scripts".
-5. Add thw script (with the "+" button).
+5. Add the script (with the "+" button).
 6. Select in text source created before.
 
 Ready to use the script :D
