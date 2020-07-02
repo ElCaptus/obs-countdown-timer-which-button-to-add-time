@@ -11,5 +11,7 @@ Soon upgrade to custom time add.
 6. Select in text source created before.
 
 Ready to use the script :D
+
 If you press reset, the time resets to default.
+
 If you press Add time, the time increment 10 minutes.
